@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-import AnimatedNumber from '@jhonnold/animated-number';
+import AnimatedNumber from '@jhonnold/react-animated-number';
 
 const rand = () => Math.random();
 

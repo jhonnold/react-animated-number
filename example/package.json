@@ -1,13 +1,13 @@
 {
-  "name": "@jhonnold/animated-number-example",
-  "homepage": "https://jhonnold.github.io/@jhonnold/animated-number",
+  "name": "react-animated-number-example",
+  "homepage": "https://jhonnold.github.io/react-animated-number",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
-    "@jhonnold/animated-number": "file:.."
+    "@jhonnold/react-animated-number": "file:.."
   },
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",

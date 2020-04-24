@@ -1,6 +1,6 @@
 {
-  "short_name": "@jhonnold/animated-number",
-  "name": "@jhonnold/animated-number",
+  "short_name": "@jhonnold/react-animated-number",
+  "name": "@jhonnold/react-animated-number",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,10 +1,10 @@
 {
-  "name": "@jhonnold/animated-number",
+  "name": "@jhonnold/react-animated-number",
   "version": "1.0.0",
   "description": "React Component to animate a number changing value",
   "author": "jhonnold",
   "license": "MIT",
-  "repository": "jhonnold/animated-number",
+  "repository": "jhonnold/react-animated-number",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
