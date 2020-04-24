@@ -1,10 +1,19 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react';
 
-import { ExampleComponent } from '@jhonnold/animated-number'
-import '@jhonnold/animated-number/dist/index.css'
+import AnimatedNumber from '@jhonnold/animated-number';
+
+const rand = () => Math.random();
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
-}
+    const [number, setNumber] = useState(rand());
 
-export default App
+    useEffect(() => {
+        const interval = setInterval(() => setNumber(rand()), 10000);
+
+        return () => clearInterval(interval);
+    }, []);
+
+    return <AnimatedNumber number={number} />;
+};
+
+export default App;
