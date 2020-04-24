@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/@jhonnold/animated-number/static/css/main.42cc8b22.chunk.css",
+    "main.js": "/@jhonnold/animated-number/static/js/main.fd07ab0e.chunk.js",
+    "main.js.map": "/@jhonnold/animated-number/static/js/main.fd07ab0e.chunk.js.map",
+    "runtime-main.js": "/@jhonnold/animated-number/static/js/runtime-main.ff141350.js",
+    "runtime-main.js.map": "/@jhonnold/animated-number/static/js/runtime-main.ff141350.js.map",
+    "static/js/2.f12aa451.chunk.js": "/@jhonnold/animated-number/static/js/2.f12aa451.chunk.js",
+    "static/js/2.f12aa451.chunk.js.map": "/@jhonnold/animated-number/static/js/2.f12aa451.chunk.js.map",
+    "index.html": "/@jhonnold/animated-number/index.html",
+    "precache-manifest.aed6a807d32b6037ee2501934a730385.js": "/@jhonnold/animated-number/precache-manifest.aed6a807d32b6037ee2501934a730385.js",
+    "service-worker.js": "/@jhonnold/animated-number/service-worker.js",
+    "static/css/main.42cc8b22.chunk.css.map": "/@jhonnold/animated-number/static/css/main.42cc8b22.chunk.css.map",
+    "static/js/2.f12aa451.chunk.js.LICENSE.txt": "/@jhonnold/animated-number/static/js/2.f12aa451.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff141350.js",
+    "static/js/2.f12aa451.chunk.js",
+    "static/css/main.42cc8b22.chunk.css",
+    "static/js/main.fd07ab0e.chunk.js"
+  ]
+}
