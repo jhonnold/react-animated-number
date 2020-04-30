@@ -14,7 +14,7 @@ interface Props extends React.HTMLAttributes<HTMLElement> {
     component?: string;
 }
 
-const AnimatedNumber: React.FC = (props: Props): React.ReactElement => {
+const AnimatedNumber: React.FC<Props> = (props: Props): React.ReactElement => {
     const {
         number,
         initial = 0,
